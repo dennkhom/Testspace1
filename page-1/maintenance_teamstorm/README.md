@@ -7,8 +7,7 @@ description: >-
 
 # Maintenance\_TeamStorm
 
-```
- code in some lang```
+``` code in some lang 
 
 ## Сопровождение системы TeamStorm
 
